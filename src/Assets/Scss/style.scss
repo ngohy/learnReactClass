@@ -1,0 +1,19 @@
+.bg-film {
+  background-image: url(../img/avanger.jpg);
+  background-position: bottom center;
+  min-width: 100vh;
+  background-size: cover;
+  .card {
+    overflow: clip;
+    height: 400px;
+    margin-bottom: 20px;
+    .footer {
+      .mota {
+        // width: 150px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+    }
+  }
+}

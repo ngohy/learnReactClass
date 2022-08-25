@@ -1,0 +1,4 @@
+b1: xây dựng giao diện (layout chia component)
+b2: xác định các chức năng cua ứng  dụng 
+b3: xác định các thành phần thay đổi giao diện state 
+b4: 
